@@ -27,3 +27,4 @@ export class Ejercicio2Component {
     console.log(resultado);
   }
 }
+ 
